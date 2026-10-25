@@ -1,1 +1,1 @@
-
+Best parameters of the model KNNC2 for the PEMS station data and data cleaning-filling are already obtained in the CNNModelForTimeSeriesForecast repository. The best parameters of the model KNNC2 for EIA and Metro data and data-cleaning are obtained in some .ipynb files of this repository. 
